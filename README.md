@@ -1,4 +1,4 @@
-# Fylo data storage component 
+# Fylo Data Storage Component 
 
 ## Challenge by Frontend Mentor
 
@@ -8,7 +8,7 @@
 
 </div>
 
-The Fylo Data Storage Component shows a responsive element, with a menu for managing files and the storage left for an account of the fictional storage company Fylo.
+The Fylo Data Storage Component is a responsive element with a menu for managing files and a section  showing the storage left for an account of the fictional storage company Fylo.
 
 The component is realized using only HTML, CSS and SASS.
 
